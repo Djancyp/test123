@@ -1,1 +1,4 @@
-console.log("hello")
+console.log("hello");
+const test = {
+  hello: "world",
+};
